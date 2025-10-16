@@ -1,19 +1,84 @@
-# Getting Started
-Install the dependencies and run the project
+# 🏡 Hometown
+
+Welcome to **Hometown**, a simple and visually engaging web page dedicated to showcasing my hometown — its charm, culture, and unique attractions.  
+This project was built using **HTML** and **CSS**, with a focus on clean design, responsiveness, and typography powered by **Google Fonts**.
+
+👉 **Live Demo:** [https://hometown-ffm.netlify.app/](https://hometown-ffm.netlify.app/)
+
+---
+
+## 🌍 Overview
+
+**Hometown** is a personal web project that captures the essence of where I’m from.  
+It’s designed to highlight local landmarks, community spirit, and the beauty of everyday life through modern web design principles.
+
+The goal of this project is to:
+- Practice semantic **HTML** structure  
+- Use **CSS** for layout, color, and responsiveness  
+- Explore **Google Fonts** to enhance readability and aesthetics  
+- Create a **static website** that feels dynamic and inviting  
+
+---
+
+## 🧰 Built With
+
+- **HTML5** – for structure and content  
+- **CSS3** – for styling and responsive design  
+- **Google Fonts** – for beautiful, modern typography  
+- **Netlify** – for deployment and hosting  
+
+---
+
+## 🧭 Features
+
+✨ Clean and minimalist layout  
+🎨 Custom color palette inspired by local scenery  
+🖋️ Elegant typography using Google Fonts  
+📱 Responsive design that adapts to different devices  
+📷 Sections showcasing photos, attractions, and community spirit  
+
+---
+
+## 🚀 Getting Started
+
+If you’d like to explore or modify the project locally:
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/yourusername/hometown.git
 ```
-npm install
-npm start
+
+### 2️⃣ Navigate into the project folder
+```bash
+cd hometown
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+### 3️⃣ Open the project
+Simply open the `index.html` file in your browser.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+---
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🖌️ Customization
 
-Happy Coding!
+You can easily customize:
+- **Colors** → in `style.css`  
+- **Fonts** → by editing the Google Fonts `<link>` in `index.html`  
+- **Images and content** → by replacing files in the `images` folder or updating text in `index.html`
+
+---
+
+## 📚 Learning Goals
+
+This project helped me practice:
+- Structuring a website using **semantic HTML**
+- Applying **CSS layout techniques** (Flexbox, Grid)
+- Using **Google Fonts** for design consistency
+- Deploying a static website with **Netlify**
+
+---
+
+## 💬 Author
+
+**Abdelilah**  
+📍 Built with ❤️ to celebrate my hometown  
+🔗 [https://hometown-ffm.netlify.app/](https://hometown-ffm.netlify.app/)
